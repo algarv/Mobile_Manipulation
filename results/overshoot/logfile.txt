@@ -1,0 +1,6 @@
+>>> from mobile_manipulation import mobile_manipulation
+>>> mobile_manipulation(3,4,10,1,0,0,-1)
+Calculating end effector trajectory
+Calculating robot trajectory
+Writing CSV files
+Plotting error
